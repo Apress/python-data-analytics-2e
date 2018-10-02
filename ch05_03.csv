@@ -1,0 +1,8 @@
+color,status,item1,item2,item3
+black,up,3,4,6
+black,down,2,6,7
+white,up,5,5,5
+white,down,3,3,2
+white,left,1,2,1
+red,up,2,2,2
+red,down,1,1,4
